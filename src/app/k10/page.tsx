@@ -15,7 +15,7 @@ const K10 = () => {
     <div className="lg:w-4/5 mx-auto flex  justify-center flex-wrap">
       <Image
         className="lg:w-1/3 w-full lg:h-auto h-70 object-cover object-center rounded-full"
-        src ={require('../../../public/picture/kc12.webp')}
+        src ={require('../../../public/picture/kc12.jpg')}
           alt= "logo"
           width={500}
           height={200}>
